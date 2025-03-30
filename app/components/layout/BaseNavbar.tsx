@@ -25,7 +25,7 @@ const BaseNavbar = () => {
                     <Link href={"/"}>
                         <Image
                             src={Logo}
-                            alt="Invoify Logo"
+                            alt="InvoiceMe Logo"
                             width={190}
                             height={100}
                             loading="eager"
